@@ -3,5 +3,12 @@ Flyingcomma
 
 no fab
 
+<<<<<<< HEAD
 ple ple ple
 
+=======
+fix fix
+--------------------------------------------------------
+
+pang pang pang pang
+>>>>>>> pang-feature
